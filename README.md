@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My favourite quote, "When you come to the fork in the road, pick it up!"
+
 <!--
 **KatrinaTom/KatrinaTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
