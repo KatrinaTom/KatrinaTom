@@ -35,6 +35,7 @@ My journey is called, "My Black Belt Journey to Development". (Think Brazilian J
 * Story Mapping 
 * Feature breakdown / Task / Ticket Creation (use of Jira/ Trello / Confluence) 
 * Stakeholder engagement
+* Intuitive design (Designing and building with a feeling of familiarity and comfort) 
 
 
 I have found myself obsessed with the customer journey. Taking the skills I have learnt as a Product Manager to fine tune the experience of what I build. 
